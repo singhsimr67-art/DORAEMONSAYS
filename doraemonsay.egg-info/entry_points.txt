@@ -1,0 +1,2 @@
+[console_scripts]
+doraemonsay = doraemonsay:main

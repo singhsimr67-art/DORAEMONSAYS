@@ -1,0 +1,7 @@
+doraemonsay.py
+pyproject.toml
+doraemonsay.egg-info/PKG-INFO
+doraemonsay.egg-info/SOURCES.txt
+doraemonsay.egg-info/dependency_links.txt
+doraemonsay.egg-info/entry_points.txt
+doraemonsay.egg-info/top_level.txt
